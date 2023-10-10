@@ -9,7 +9,7 @@
 	url = https://github.com/CViniciusSDias/alura-ms-financeiro-php.git
 [submodule "academico-php"]
 	path = academico-php
-	url = https://github.com/CViniciusSDias/alura-ms-academico-php.git
+	url = https://github.com/eduardopinheiro20/academico-php.git
 [submodule "academico-php-web"]
 	path = academico-php-web
 	url = https://github.com/CViniciusSDias/alura-ms-web-academico-php.git
